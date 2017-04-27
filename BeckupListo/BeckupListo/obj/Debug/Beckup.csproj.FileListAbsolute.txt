@@ -1,0 +1,4 @@
+C:\Qualify\BeckupListo\BeckupListo\obj\Debug\Beckup.csprojResolveAssemblyReference.cache
+C:\Qualify\BeckupListo\BeckupListo\obj\Debug\BeckupListo.frmInicio.resources
+C:\Qualify\BeckupListo\BeckupListo\obj\Debug\BeckupListo.Properties.Resources.resources
+C:\Qualify\BeckupListo\BeckupListo\obj\Debug\Beckup.csproj.GenerateResource.Cache
